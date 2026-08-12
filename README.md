@@ -13,12 +13,27 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 - 📊 Hands-on projects spanning ETL pipelines, data warehousing, Power BI, and relational database design
 - 🌱 Currently sharpening skills in SQL, Python (pandas), Power BI/DAX, and data pipeline tools
 
-### 🧰 Tech Stack
+---
 
-**Languages & Libraries:** SQL, Python, pandas, openpyxl
-**Data Warehousing & BI:** Power BI, DAX, Star Schema Design, KNIME Analytics Platform
-**Databases:** PostgreSQL, Relational Database Design
-**Tools:** Git & GitHub, Jupyter Notebook, VS Code
+### 🛠️ Technologies I use
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=powerbi&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FFD500?style=for-the-badge&logo=knime&logoColor=black)
+
+### 🧰 Tools I use
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SSMS](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -32,17 +47,9 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 | [**Food Delivery Database System**](https://github.com/maira000/food-delivery-database-system) | Relational database design and business-insight queries for a food delivery platform. |
 | [**Store Pulse**](https://github.com/maira000/store-pulse) | Retail analytics ETL pipeline + Streamlit dashboard on Walmart sales data, built for a hackathon with GPT integration via OpenAI's Responses API. |
 
-*(Update the links above if any repo names differ from what's shown.)*
-
 ---
 
 ### 📫 Reach me
 
-- GitHub: [@maira000](https://github.com/maira000)
-
-<!--
-💡 Optional additions you might want:
-- LinkedIn badge/link
-- Email
-- GitHub stats card (e.g. github-readme-stats)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-naveed-b8689521a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maira000)

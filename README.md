@@ -45,7 +45,7 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 | [**Online Retail Data Cleaning**](https://github.com/maira000/online-retail-data-cleaning) | Pandas data-cleaning pipeline on ~1M raw transaction rows, aggregated into RFM (Recency, Frequency, Monetary) customer features. |
 | [**TechMart SQL Business Insights**](https://github.com/maira000/techmart-sql-business-insights) | 20+ SQL queries answering real business questions — filtering, aggregation, joins — plus data engineering research notes. |
 | [**Food Delivery Database System**](https://github.com/maira000/food-delivery-database-system) | Relational database design and business-insight queries for a food delivery platform. |
-| [**Store Pulse**](https://github.com/maira000/store-pulse) | Retail analytics ETL pipeline + Streamlit dashboard on Walmart sales data, built for a hackathon with GPT integration via OpenAI's Responses API. |
+| [**Store Pulse**]([https://github.com/maira000/store-pulse](https://github.com/OpenAI-Hackathon-Team/store-pulse)) | Retail analytics ETL pipeline + Streamlit dashboard on Walmart sales data, built for a hackathon with GPT integration via OpenAI's Responses API. |
 
 ---
 

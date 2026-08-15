@@ -1,17 +1,9 @@
 <h1 align="center">Hi, I'm Maira Naveed 👋</h1>
-<h3 align="center">Data Engineering Intern | Aspiring Data Engineer</h3>
+<h3 align="center">Aspiring Data Engineer</h3>
 
 <p align="center">
 Building ETL pipelines, data warehouses, and analytics-ready datasets — one clean pipeline at a time.
 </p>
-
----
-
-### 🔭 What I'm working on
-
-- 💼 Data Engineering Intern at **Zee Outsourcing Solutions Pvt. Ltd.**
-- 📊 Hands-on projects spanning ETL pipelines, data warehousing, Power BI, and relational database design
-- 🌱 Currently sharpening skills in SQL, Python (pandas), Power BI/DAX, and data pipeline tools
 
 ---
 
@@ -52,4 +44,3 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 ### 📫 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-naveed-b8689521a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maira000)

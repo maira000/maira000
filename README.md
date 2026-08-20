@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Maira Naveed 👋</h1>
 <h3 align="center">Artificial Intelligence | Data Engineering</h3>
-
 <p align="center">
 Building ETL pipelines, data warehouses, and analytics-ready datasets — one clean pipeline at a time.
 </p>
@@ -8,7 +7,6 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 ---
 
 ### 🛠️ Technologies I use
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -19,7 +17,6 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 ![KNIME](https://img.shields.io/badge/KNIME-FFD500?style=for-the-badge&logo=knime&logoColor=black)
 
 ### 🧰 Tools I use
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -30,7 +27,6 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 ---
 
 ### 📌 Featured Projects
-
 | Project | Description |
 |---|---|
 | [**Retail Executive BI Dashboard**](https://github.com/maira000/retail-executive-bi-dashboard) | End-to-end Power BI project: star schema modeling, DAX measures, and an interactive executive dashboard for a retail case study. |
@@ -41,6 +37,11 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 
 ---
 
-### 📫 Reach me
+### 📊 GitHub Activity
 
+![Maira's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maira000&theme=react-dark&hide_border=true)
+
+---
+
+### 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-naveed-b8689521a/)

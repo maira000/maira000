@@ -25,6 +25,7 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
 <h4 align="center">Data & Analytics</h4>
@@ -44,6 +45,7 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 <h4 align="center">Databases</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
@@ -77,9 +79,13 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 
 ### 📊 GitHub Activity
 
-![Maira's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maira000&theme=react-dark&hide_border=true)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maira000&theme=react&hide_border=true" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maira000&theme=react&hide_border=true)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maira000&theme=react-dark&hide_border=true&custom_title=Maira's%20GitHub%20Activity" />
+</p>
 
 ---
 

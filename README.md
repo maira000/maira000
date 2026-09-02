@@ -39,10 +39,8 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 ![SSMS](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<br>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,notion,discord,slack&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,pandas,git,github,vscode,notion&theme=dark" />
 </p>
 
 ---

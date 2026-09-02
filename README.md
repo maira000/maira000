@@ -21,6 +21,8 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 
 ### 🛠️ Technologies I use
 
+<p align="center">
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -30,7 +32,11 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 ![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=powerbi&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-FFD500?style=for-the-badge&logo=knime&logoColor=black)
 
+</p>
+
 ### 🧰 Tools I use
+
+<p align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -39,8 +45,10 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 ![SSMS](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,pandas,git,github,vscode,notion&theme=dark" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,notion,discord,slack&theme=dark" />
+
 </p>
 
 ---

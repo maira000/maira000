@@ -19,24 +19,6 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 
 ---
 
-### 🛠️ Skills
-
-<div align="center">
-
-| Category | Skills |
-|---|---|
-| Programming Languages | Python, R, SQL |
-| Web Development | JavaScript, HTML, CSS |
-| Deployment | Netlify |
-| Data Visualization | Power BI, Tableau |
-| Version Control | Git, GitHub |
-| Development Tools | Visual Studio Code (VS Code), Jupyter Notebook, RStudio |
-| Productivity Tools | Microsoft Excel |
-
-</div>
-
----
-
 ### 🧠 Tech Stack
 
 <h4 align="center">Languages</h4>

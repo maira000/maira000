@@ -19,6 +19,24 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 
 ---
 
+### 🛠️ Skills
+
+<div align="center">
+
+| Category | Skills |
+|---|---|
+| Programming Languages | Python, R, SQL |
+| Web Development | JavaScript, HTML, CSS |
+| Deployment | Netlify |
+| Data Visualization | Power BI, Tableau |
+| Version Control | Git, GitHub |
+| Development Tools | Visual Studio Code (VS Code), Jupyter Notebook, RStudio |
+| Productivity Tools | Microsoft Excel |
+
+</div>
+
+---
+
 ### 🧠 Tech Stack
 
 <h4 align="center">Languages</h4>
@@ -26,6 +44,13 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+<h4 align="center">Web Development</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <h4 align="center">Data & Analytics</h4>
@@ -38,6 +63,7 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 <h4 align="center">BI & Visualization</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
@@ -55,6 +81,7 @@ Building ETL pipelines, data warehouses, and analytics-ready datasets — one cl
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 <h4 align="center">Communication</h4>

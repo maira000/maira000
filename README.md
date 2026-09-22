@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Maira Naveed 👋</h1>
 <h3 align="center">Artificial Intelligence | Data Engineering</h3>
 
 <p align="center">

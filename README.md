@@ -1,10 +1,6 @@
 <h3 align="center">Bioinformatics, AI & Data Engineering</h3>
 
 <p align="center">
-Building ETL pipelines, data warehouses, and analytics-ready datasets — one clean pipeline at a time.
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=maira000&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 

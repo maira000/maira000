@@ -1,4 +1,4 @@
-<h3 align="center">Artificial Intelligence | Data Engineering</h3>
+<h3 align="center">Bioinformatics, AI & Data Engineering</h3>
 
 <p align="center">
 Building ETL pipelines, data warehouses, and analytics-ready datasets — one clean pipeline at a time.
